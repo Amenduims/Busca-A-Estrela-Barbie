@@ -1,2 +1,5 @@
 # Busca-A-Estrela-Barbie
+
+The game consists of a 42x42 grid representing the game map. At certain positions, there are 6 of Barbie's friends. Starting from her home, Barbie needs to visit her 6 friends and invite them to a programming marathon. 3 friends will accept, and 3 will decline. Once three of them have accepted, Barbie must return home. A greedy algorithm was used to determine the order in which the friends would be visited, and an A* algorithm was used to generate the path taken using the "Manhattan Distance" heuristic.
+
 O jogo consiste em uma matriz 42x42 que representa o mapa do jogo, em determinadas posições existem 6 amigos da Barbie, a partir de sua casa a Barbie precisa visitar seus 6 amigos e convidá-los para uma maratona de programação, 3 amigos irão aceitar e 3 irão recusar, no momento que três deles aceitaram a Barbie deve retornar para sua casa. Um algoritmo guloso foi usado para decidir em qual ordem os amigos seriam visitados e um algortimo A* foi utilizado para gerar o caminho percorrido através da Heurisitica "Distância de Manhatthan".
